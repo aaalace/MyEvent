@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SA6HjqEfcT7yHiBCcgK8whAifGmEPr1RoXjimfWyCNZGsojUfx0biDGkSL8dT4uKwx2oQq5y0doU3Po6RJSTbA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\web\\MyEvent\\MyEvent.Application\\MyEvent.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyj5r\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

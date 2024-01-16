@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXp7/vC4nzMZBDA5RUcZwSulscAKbmatrNUsRBT41aVV51jkY+owXoevxheDNYwGKlw2esRy0J4er8TSQbdX3g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\web\\MyEvent\\MyEvent.Api\\MyEvent.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyj5r\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\tyj5r\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tyj5r\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\tyj5r\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\tyj5r\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

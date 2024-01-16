@@ -1,0 +1,9 @@
+﻿namespace MyEvent.Contracts.Auth;
+
+public record AuthResponse(
+    Guid Id,
+    string FirstName,
+    string LastName,
+    string Email,
+    string Password,
+    string Token);

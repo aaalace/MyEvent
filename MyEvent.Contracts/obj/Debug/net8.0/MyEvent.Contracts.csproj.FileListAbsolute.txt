@@ -1,0 +1,11 @@
+D:\Projects\web\MyEvent\MyEvent.Contracts\bin\Debug\net8.0\MyEvent.Contracts.deps.json
+D:\Projects\web\MyEvent\MyEvent.Contracts\bin\Debug\net8.0\MyEvent.Contracts.dll
+D:\Projects\web\MyEvent\MyEvent.Contracts\bin\Debug\net8.0\MyEvent.Contracts.pdb
+D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\MyEvent.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\MyEvent.Contracts.AssemblyInfoInputs.cache
+D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\MyEvent.Contracts.AssemblyInfo.cs
+D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\MyEvent.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\MyEvent.Contracts.dll
+D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\refint\MyEvent.Contracts.dll
+D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\MyEvent.Contracts.pdb
+D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\ref\MyEvent.Contracts.dll

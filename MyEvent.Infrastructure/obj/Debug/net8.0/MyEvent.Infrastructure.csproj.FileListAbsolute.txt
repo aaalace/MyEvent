@@ -1,0 +1,17 @@
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\bin\Debug\net8.0\MyEvent.Infrastructure.deps.json
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\bin\Debug\net8.0\MyEvent.Infrastructure.dll
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\bin\Debug\net8.0\MyEvent.Infrastructure.pdb
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\obj\Debug\net8.0\MyEvent.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\obj\Debug\net8.0\MyEvent.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\obj\Debug\net8.0\MyEvent.Infrastructure.AssemblyInfo.cs
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\obj\Debug\net8.0\MyEvent.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\obj\Debug\net8.0\MyEvent.Infrastructure.dll
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\obj\Debug\net8.0\refint\MyEvent.Infrastructure.dll
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\obj\Debug\net8.0\MyEvent.Infrastructure.pdb
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\obj\Debug\net8.0\ref\MyEvent.Infrastructure.dll
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\bin\Debug\net8.0\MyEvent.Application.dll
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\bin\Debug\net8.0\MyEvent.Domain.dll
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\bin\Debug\net8.0\MyEvent.Application.pdb
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\bin\Debug\net8.0\MyEvent.Domain.pdb
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\obj\Debug\net8.0\MyEvent.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\web\MyEvent\MyEvent.Infrastructure\obj\Debug\net8.0\MyEvent.Infrastructure.csproj.CopyComplete
