@@ -13,3 +13,4 @@ D:\Projects\web\MyEvent\MyEvent.Application\bin\Debug\net8.0\MyEvent.Domain.dll
 D:\Projects\web\MyEvent\MyEvent.Application\bin\Debug\net8.0\MyEvent.Domain.pdb
 D:\Projects\web\MyEvent\MyEvent.Application\obj\Debug\net8.0\MyEvent.Application.csproj.AssemblyReference.cache
 D:\Projects\web\MyEvent\MyEvent.Application\obj\Debug\net8.0\MyEvent.Application.csproj.CopyComplete
+D:\Projects\web\MyEvent\MyEvent.Application\obj\Debug\net8.0\MyEvent.Application.sourcelink.json

@@ -38,3 +38,9 @@ D:\Projects\web\MyEvent\MyEvent.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swag
 D:\Projects\web\MyEvent\MyEvent.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projects\web\MyEvent\MyEvent.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Projects\web\MyEvent\MyEvent.Api\obj\Debug\net8.0\MyEvent.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\web\MyEvent\MyEvent.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\web\MyEvent\MyEvent.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\web\MyEvent\MyEvent.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\web\MyEvent\MyEvent.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\web\MyEvent\MyEvent.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\web\MyEvent\MyEvent.Api\obj\Debug\net8.0\MyEvent.Api.sourcelink.json

@@ -9,3 +9,4 @@ D:\Projects\web\MyEvent\MyEvent.Domain\obj\Debug\net8.0\MyEvent.Domain.dll
 D:\Projects\web\MyEvent\MyEvent.Domain\obj\Debug\net8.0\refint\MyEvent.Domain.dll
 D:\Projects\web\MyEvent\MyEvent.Domain\obj\Debug\net8.0\MyEvent.Domain.pdb
 D:\Projects\web\MyEvent\MyEvent.Domain\obj\Debug\net8.0\ref\MyEvent.Domain.dll
+D:\Projects\web\MyEvent\MyEvent.Domain\obj\Debug\net8.0\MyEvent.Domain.sourcelink.json

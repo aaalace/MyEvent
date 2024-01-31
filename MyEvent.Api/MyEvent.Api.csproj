@@ -1,10 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
     <PropertyGroup>
         <TargetFramework>net8.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <InvariantGlobalization>true</InvariantGlobalization>
+        <UserSecretsId>fe6eb391-0a71-4e2b-9939-07ee8e92f690</UserSecretsId>
     </PropertyGroup>
 
     <ItemGroup>
@@ -12,8 +13,6 @@
         <ProjectReference Include="..\MyEvent.Contracts\MyEvent.Contracts.csproj" />
         <ProjectReference Include="..\MyEvent.Infrastructure\MyEvent.Infrastructure.csproj" />
     </ItemGroup>
-
-
 
     <ItemGroup>
       <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.5.0" />

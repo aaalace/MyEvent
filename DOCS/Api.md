@@ -7,6 +7,8 @@
       - [Register request](#register-request)
       - [Register response](#register-response)
     - [Login](#login)
+      - [Login request](#login-request)
+      - [Login response](#login-response)
 ---
 
 ## Auth

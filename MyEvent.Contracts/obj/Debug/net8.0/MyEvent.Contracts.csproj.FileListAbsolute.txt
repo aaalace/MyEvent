@@ -9,3 +9,4 @@ D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\MyEvent.Contracts.dll
 D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\refint\MyEvent.Contracts.dll
 D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\MyEvent.Contracts.pdb
 D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\ref\MyEvent.Contracts.dll
+D:\Projects\web\MyEvent\MyEvent.Contracts\obj\Debug\net8.0\MyEvent.Contracts.sourcelink.json
