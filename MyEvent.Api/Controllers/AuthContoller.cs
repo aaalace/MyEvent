@@ -29,7 +29,6 @@ public class AuthController : ControllerBase
             authResult.FirstName,
             authResult.LastName,
             authResult.Email,
-            authResult.Password,
             authResult.Token
         );
         
@@ -48,7 +47,6 @@ public class AuthController : ControllerBase
             authResult.FirstName,
             authResult.LastName,
             authResult.Email,
-            authResult.Password,
             authResult.Token
             );
         

@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Mvc.Infrastructure;
+using MyEvent.Api.Errors;
 using MyEvent.Application;
 using MyEvent.Infrastructure;
 
@@ -5,9 +7,13 @@ var builder = WebApplication.CreateBuilder(args);
 {
     builder.Services.AddSwaggerGen();
     
+    builder.Services
+        .AddApplication()
+        .AddInfrastructure(builder.Configuration);
+    
     builder.Services.AddControllers();
-    builder.Services.AddApplication();
-    builder.Services.AddInfrastructure(builder.Configuration);
+
+    builder.Services.AddSingleton<ProblemDetailsFactory, MyEventProblemDetailsFactory>();
 }
 
 var app = builder.Build();
@@ -17,7 +23,8 @@ var app = builder.Build();
         app.UseSwagger();
         app.UseSwaggerUI();
     }
-    
+
+    app.UseExceptionHandler("/error");
     app.UseHttpsRedirection();
     app.MapControllers();
     

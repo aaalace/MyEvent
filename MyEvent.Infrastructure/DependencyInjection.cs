@@ -4,6 +4,8 @@ using MyEvent.Application.Common.Interfaces.Utils;
 using MyEvent.Infrastructure.Auth;
 using MyEvent.Infrastructure.Utils;
 using Microsoft.Extensions.Configuration;
+using MyEvent.Application.Common.Interfaces.Persistence;
+using MyEvent.Infrastructure.Persistence;
 
 namespace MyEvent.Infrastructure;
 
@@ -16,7 +18,8 @@ public static class DependencyInjection
         
         services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
         services.AddSingleton<IDateTimeProvider, DateTimeProvider>();
-        
+
+        services.AddScoped<IUserRepository, UserRepository>();
         return services;
     }
 }
